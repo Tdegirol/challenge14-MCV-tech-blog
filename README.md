@@ -13,24 +13,24 @@
   ## Installation 
   To install all required dependencies:
 
-  npm init  
-  npm install mysql2  
-  npm install sequelize  
-  npm install connect-session-sequelize  
-  npm install express  
-  npm install express-handlebars  
-  npm install express-session  
-  npm install handlebars  
-  npm install bcrypt  
-  npm install dotenv  
+  npm init  <br />
+  npm install mysql2  <br />
+  npm install sequelize  <br />
+  npm install connect-session-sequelize  <br />
+  npm install express  <br />
+  npm install express-handlebars  <br />
+  npm install express-session  <br />
+  npm install handlebars  <br />
+  npm install bcrypt  <br />
+  npm install dotenv  <br />
 
   <a id="usage"></a>
   ## Usage 
-  express, mysql2, sequelize, handlebars, and dotenv are required.  
-  enter mysql, source db/schema.sql, USE ecommerce_db, quit mysql  
-  in Node JS, npm run seeds, npm start  
-  Visit localhost:3001 to use site  
-  Site deployed to Heroku at:  
+  express, mysql2, sequelize, handlebars, and dotenv are required.  <br />
+  enter mysql, source db/schema.sql, USE ecommerce_db, quit mysql  <br />
+  in Node JS, npm run seeds, npm start  <br />
+  Visit localhost:3001 to use site  <br />
+  Site deployed to Heroku at:  <br />
   https://mvc-tech-blog-tdegirol.herokuapp.com/
 
   <a id="questions"></a>
